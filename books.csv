@@ -1,0 +1,176 @@
+bid,title,aid,pid,genre,aname
+1,A Captains Story,34,1,Young adult,Teenagers
+2,A Circumstantial Injustice,49,14,Coming-of-age,Teenagers
+3,A Death of Beauty,1,6,Fairytale,All Ages
+4,A Garden Fiction,46,4,Science,All Ages
+5,A Garden in the Sky,38,22,Young adult,All Ages
+6,A Ladys Redemption,12,8,Humor,Teenagers
+7,A Lifetime of Despair,19,2,Alternate history,Seniors
+8,A Midsummers Eye,32,14,Action and adventure,Children
+9,A Mold for Homecoming,17,24,Fairytale,All Ages
+10,A Voice in the Ground,21,2,Action and adventure,Children
+11,A Whisper of Thunder,21,1,Fantasy,Teenagers
+12,A White Departure,1,17,Suspense,All Ages
+13,A Widows Mask,23,25,Classic ,Seniors
+14,Agent Wife,6,1,Fantasy,All Ages
+15,Air of Blackwood,42,19,Coming-of-age,Children
+16,Alibi for Hire,10,11,Short story,All Ages
+17,Alice and the Sheik,48,9,Horror,Teenagers
+18,Alphabet of Diablo,35,22,Fairytale,Seniors
+19,American Fright,4,14,True crime,Teenagers
+20,Ape and Doom,40,10,Short story,Teenagers
+21,Armies of Empire,32,21,Cookbook,Adults
+22,Ashes in the Garden,13,1,Cookbook,Seniors
+23,Bards Lie,1,15,Thriller,Teenagers
+24,Beast of Beauty,34,3,Horror,Seniors
+25,Beloved Variations,11,24,Suspense,All Ages
+26,Bone Blaze,11,15,Thriller,Children
+27,Bride of a Scandal,35,3,Sports and leisure,Seniors
+28,Brides Holiday,49,3,True crime,Seniors
+29,Captive Rome,47,7,Fairytale,Children
+30,Caves of the Purple,23,20,Sports and leisure,Children
+31,Crossroads of Fear,17,21,Drama,Adults
+32,Darling New,6,23,Philosophy,Adults
+33,Dead for the Sun,28,19,Crime,Children
+34,Deception Canary,6,14,Drama,All Ages
+35,Delusions Rebel,9,17,Classic ,Children
+36,Dimension of Deception,14,6,Sports and leisure,Seniors
+37,Dinosaur Jenny,30,3,Mystery,Teenagers
+38,Dreamer of Intent,40,20,Cookbook,All Ages
+39,Drowned Scales,32,5,Sports and leisure,Children
+40,Echoes of Empire,32,2,Coming-of-age,Teenagers
+41,Ember and Seduced,44,11,Classic ,Teenagers
+42,Evidence of the Deceiver,4,7,Western,Adults
+43,Flights of Death,23,20,Fairytale,All Ages
+44,Forest of Deeds,17,17,Graphic novel,Teenagers
+45,Foundation and Ivy,20,12,Action and adventure,Adults
+46,Fourth Treasure,45,15,Suspense,Teenagers
+47,French Money,2,8,Mystery,Adults
+48,Gentle Lands,40,21,Thriller,Teenagers
+49,Gilgamesh the Emperor,17,14,Romance,Teenagers
+50,Hannah and the Amazon,7,3,Drama,All Ages
+51,Harry and the Rogue,16,22,Western,Adults
+52,Hart and Prejudice,13,23,Mystery,All Ages
+53,Heart of Wishes,38,17,Suspense,Adults
+54,Heavens Gambit,4,6,Historical fiction,Seniors
+55,Heiress Sexy,31,14,Science,Seniors
+56,Ice Bargain,32,24,Drama,All Ages
+57,Joannas Estate,36,8,Short story,Seniors
+58,Land of Moons,44,24,Drama,Seniors
+59,Lukes Plunder,49,21,Short story,All Ages
+60,Lullaby of Nathan,3,23,Classic ,Adults
+61,Maigret and the Monkey,46,1,Political thriller,Seniors
+62,Melancholy Seeds,39,5,Science fiction,Children
+63,Mischief in the Dust,11,2,Philosophy,Seniors
+64,Mission from Beyond,45,8,Graphic novel,Adults
+65,Mondays Disgrace,12,2,Philosophy,Children
+66,Night on the Beach,48,19,Short story,Children
+67,Passions Talisman,37,15,Sports and leisure,Children
+68,Pennys Heir,49,5,Classic ,Seniors
+69,People of Paternity,12,14,Alternate history,All Ages
+70,People of the Blood,31,25,Fantasy,Adults
+71,Pillars of Passage,5,10,Cookbook,Seniors
+72,Planets of Innocence,29,7,Classic ,Seniors
+73,Police and Carla,27,20,Romance,All Ages
+74,Reapers Sabbath,1,22,Romance,Adults
+75,Regency Adventures,37,19,Crime,Adults
+76,Ritual Dynasty,38,10,True crime,All Ages
+77,Rivers of Riverworld,32,17,Suspense,All Ages
+78,Serpent in the Mirror,39,5,Drama,Adults
+79,Stay the Dead,39,6,Childrens,Children
+80,Super Rat,16,22,Fantasy,Seniors
+81,Swans Fall,8,14,Science fiction,All Ages
+82,The Androids Prophecy,14,13,Fantasy,Teenagers
+83,The Bloodless Hero,19,15,True crime,Teenagers
+84,The Cannons Vampire,23,22,Sports and leisure,Seniors
+85,The Circle and the Hoyden,40,1,Satire,Children
+86,The Clan of the Pearl,47,10,Philosophy,Teenagers
+87,The Curse of the Goddess,37,13,Short story,Seniors
+88,The Cypress Design,40,15,Graphic novel,All Ages
+89,The Defenders Office,26,3,Young adult,Children
+90,The Dutchmans Measure,1,21,Thriller,Seniors
+91,The Fall of the Mist,6,17,Crime,All Ages
+92,The Flight of Light,1,2,Paranormal romance,Teenagers
+93,The Frightened Envoy,1,4,Romance,All Ages
+94,The Galaxy Ships,18,13,Crime,Adults
+95,The Gunfighter and the Princess,30,23,Graphic novel,Seniors
+96,The Guns of Iron,10,12,Comic book,Seniors
+97,The Hand of the Line,45,10,Cookbook,Seniors
+98,The Heart Gifts,49,7,Action and adventure,Seniors
+99,The Heart of the Party,15,19,Young adult,Children
+100,The Hermits Conquest,39,17,Crime,Teenagers
+101,The Housekeepers Homecoming,41,17,Action and adventure,Seniors
+102,The Keepers Name,36,15,Paranormal romance,All Ages
+103,The Last Touch,5,14,Suspense,Seniors
+104,The Legend Curse,38,2,Science,Teenagers
+105,The Mansion of Doubt,3,6,Romance,All Ages
+106,The Mist and the Fox,1,15,Short story,Children
+107,The Mistletoe Caller,2,1,Coming-of-age,Children
+108,The Mouses Pleasure,23,15,Paranormal romance,Seniors
+109,The Mutiny of the Lynx,30,9,Historical fiction,Adults
+110,The Order of the Grave,20,4,Science,All Ages
+111,The Outlaws Wheel,14,17,Western,Children
+112,The Power of the Moment,49,13,Historical fiction,Adults
+113,The Prize of Creation,14,2,Young adult,Teenagers
+114,The Pursuit of Dune,25,18,Fairytale,Children
+115,The Raiders Path,38,13,Humor,All Ages
+116,The Rebels Evidence,36,13,Action and adventure,All Ages
+117,The Risk of Limbo,20,17,Humor,All Ages
+118,The Satanic Dozen,13,3,Childrens,Children
+119,The Serpents Betrayal,43,3,Classic ,Teenagers
+120,The Servants Violin,31,1,Classic ,Children
+121,The Shoulder of Santiago,22,24,Action and adventure,Children
+122,The Slave Gentleman,4,9,Historical fiction,Seniors
+123,The Society of the Hound,19,9,Mystery,Teenagers
+124,The Star Rivals,1,4,Coming-of-age,Teenagers
+125,The Strangers Chapel,9,14,True crime,Seniors
+126,The Sundered Warriors,5,1,Horror,All Ages
+127,The Theory of Soul,9,11,Alternate history,All Ages
+128,The Time of Malice,3,6,Fairytale,Teenagers
+129,The Tin Crown,7,14,Western,Seniors
+130,The Tower of Horror,4,5,Suspense,Adults
+131,The Turn of the Vampyre,33,20,Historical fiction,All Ages
+132,The Whales Witness,47,7,Comic book,Seniors
+133,Thiefs Daughter,1,1,Classic ,All Ages
+134,Three of Flames,16,8,Humor,Adults
+135,Tide of Intentions,43,2,Science,Adults
+136,Titans Sheik,13,11,Western,Teenagers
+137,Unbroken Demand,24,2,True crime,Seniors
+138,Unwilling Shield,16,9,Romance,Children
+139,Viscount Sinister,11,23,Classic ,Children
+140,Warm Bridesmaid,49,9,Fantasy,Children
+141,Alphabet of the Wall,16,7,Young adult,All Ages
+142,Love the Tiger,50,16,Satire,Adults
+143,Babels Duty,44,25,Fantasy,Adults
+144,The Ravens Triumph,32,18,Humor,Children
+145,Victims of Flame,33,24,Coming-of-age,All Ages
+146,Harry the Warrior,13,18,Classic ,Teenagers
+147,A Handful of Deception,23,2,Mystery,Children
+148,Knights of the Imperium,47,2,Satire,Adults
+149,Rodeo Treat,4,7,Humor,All Ages
+150,Captives of the Faith,21,6,Satire,All Ages
+151,The Killers Paradise,10,25,Western,All Ages
+152,Carters Mark,16,7,Mystery,Teenagers
+153,Thunder Portraits,16,6,Fairytale,All Ages
+154,Honeymoon for Redemption,27,11,Science,Children
+155,The Deadly Failure,48,5,True crime,Adults
+156,The Knife and the Highlander,25,17,Sports and leisure,Seniors
+157,Coyote Warriors,39,6,Drama,Adults
+158,Splendid Lawman,36,19,Action and adventure,Teenagers
+159,Guardian of Clouds,20,17,Mystery,All Ages
+160,A Carol for Emily,5,22,Crime,Teenagers
+161,Massacre in Love,13,20,Drama,Seniors
+162,Flowers of the Magnolia,31,6,Sports and leisure,Teenagers
+163,Arthur the Sun,1,12,Childrens,Children
+164,Ribbon in the Shade,2,11,Sports and leisure,Teenagers
+165,A Fresh Flame,40,10,Paranormal romance,Adults
+166,The Monkeys Wheel,41,13,Young adult,Teenagers
+167,The Sweet Dollar,30,8,Mystery,All Ages
+168,African Cure,42,3,Romance,All Ages
+169,The Time of Evidence,36,25,Political thriller,Teenagers
+170,The Marine and the Baron,37,15,Coming-of-age,Teenagers
+171,Unquiet Knife,34,2,Graphic novel,Seniors
+172,Bachelors Poker,46,13,Comic book,Children
+173,Emily and the Horseman,33,20,Crime,Seniors
+174,Destruction of Ruins,43,3,Western,Teenagers
+175,The Jonah Spear,23,18,Mystery,Teenagers
